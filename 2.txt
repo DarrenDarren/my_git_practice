@@ -1,3 +1,0 @@
-This is 2.txt
-Edit 2.txt by person1.
-Edit 2.txt by person2.
